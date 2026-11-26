@@ -1,0 +1,5 @@
+experiment,configuration,query_count,index_count,storage_mb,execution_time,plan_cost,improvement_percent,workload_drift_percent
+Initial workload,Before indexes,50,0,0.0,4018.3400000000006,243429.7900000001,0.0,0.0
+Initial workload,After recommended indexes,50,14,29.59375,2786.3399999999997,128393.20999999996,30.65942652936289,0.0
+Adapted workload,Before indexes,30,0,0.0,2016.547,148127.53999999998,0.0,73.01587301587303
+Adapted workload,After recommended indexes,30,14,29.59375,995.6250000000001,62370.310000000005,50.62723556654023,73.01587301587303
